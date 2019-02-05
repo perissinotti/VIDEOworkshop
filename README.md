@@ -1,3 +1,3 @@
-# Instructional Video Basics (feb. 4th, 2019) :octocat:
+# Instructional Video Basics :octocat:
 
-In this repository you will find the videos that were produced during the workshop. 
+In this repository you will find the videos that were produced during the workshop (Feb. 4th, 2019). 
